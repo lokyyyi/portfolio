@@ -7,14 +7,21 @@
 
 # 💻 Projects
 
-## 1. Groupware-HR
+## 1. ClassHub
+### 강의수강 LMS서비스
+개발 기간: 2024.05 ~ 06.08
+기술 스택: Java / Spring     
+
+[Project Repository](https://github.com/lokyyyi/ClassHubProject)  
+
+## 2. Groupware-HR
 ### 그룹웨어 시스템 분석 및 리뷰
 개발 기간: 2024.03 ~ ing  
 기술 스택: Java / Spring     
 
 [Project Repository](https://github.com/lokyyyi/groupWare_HR)  
 
-## 2. InLOG
+## 3. InLOG
 ### 기존 SNS와 블로그의 주요 기능들만 뽑아 만든 서비스 (Team Project)
 개발 기간: 2023.11~2023.12  
 개발 인원: FE 2명, BE 2명  
@@ -22,7 +29,7 @@
 
 [Project Repository](https://github.com/lokyyyi/multi28_semi_project_LACJ)  
 
-## 3. Trip_Fixie
+## 4. Trip_Fixie
 ### 여행일정 계획 비교 서비스 (Team Project)
 개발 기간: 2023.12~2024.1  
 개발 인원: FE 1명, BE 1명  
